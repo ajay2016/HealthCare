@@ -1,0 +1,9 @@
+com\stonerisehealthcare\testcases\ContactAndConnectLinksTest.class
+com\stonerisehealthcare\testcases\OtherServicesLinksTest.class
+com\stonerisehealthcare\testcases\Contact.class
+com\stonerisehealthcare\testcases\SkilledNursingCentersLinksTest.class
+com\stonerisehealthcare\testcases\CoronaUpdateAndTelevisitLinkTest.class
+com\stonerisehealthcare\testcases\AboutUs.class
+com\stonerisehealthcare\testcases\Careers.class
+com\stonerisehealthcare\testcases\Resources.class
+com\stonerisehealthcare\base\BaseTest.class
